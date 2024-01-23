@@ -15,6 +15,8 @@ Course Title: Software Engineering
 ElderCare Hub: Empowering and Enhancing Lives is a special project that uses technology to help older people. It includes things like health monitoring and talking to doctors online. There's also a way for volunteers to help with daily tasks. This project wants to make sure that older people have a good and connected life. Welcome to a place where new ideas are used to celebrate and make life better for our older friends and family.
 
 ## Applied Waterfall SDLC Model:
+![image](https://github.com/Wareesha99/ElderCare-Hub/assets/129959709/caec78d9-f17b-494e-8bfe-b2c436c9437b)
+
 The Waterfall model is a traditional, linear approach where the project progresses through a sequence of phases, and each phase must be completed before moving on to the next. This model is suitable when the project requirements are well-defined and unlikely to change significantly.
 
 ## Waterfall Steps for ElderCare Hub:
